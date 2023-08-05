@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a skilled Programmer, Software Developer, and Automation Engineer.
+
+
 <!--
 **karthik-bhat-b/karthik-bhat-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
