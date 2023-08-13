@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 I'm currently working on Angular, spring-boot and AWS stack<br>
+Want to get into LLM Application development.
 
 
 ## 🌐 Socials:
